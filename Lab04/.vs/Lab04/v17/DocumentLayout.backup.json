@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08F88F57-AD99-4845-87E7-0E9D5A259CDB}|Lab04\\Lab04.csproj|e:\\save projects\\visual\\c#\\new folder (2)\\lab04\\lab04\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F88F57-AD99-4845-87E7-0E9D5A259CDB}|Lab04\\Lab04.csproj|solutionrelative:lab04\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F88F57-AD99-4845-87E7-0E9D5A259CDB}|Lab04\\Lab04.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\lab04\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F88F57-AD99-4845-87E7-0E9D5A259CDB}|Lab04\\Lab04.csproj|solutionrelative:lab04\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F88F57-AD99-4845-87E7-0E9D5A259CDB}|Lab04\\Lab04.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\lab04\\account.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F88F57-AD99-4845-87E7-0E9D5A259CDB}|Lab04\\Lab04.csproj|solutionrelative:lab04\\account.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F88F57-AD99-4845-87E7-0E9D5A259CDB}|Lab04\\Lab04.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\lab04\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F88F57-AD99-4845-87E7-0E9D5A259CDB}|Lab04\\Lab04.csproj|solutionrelative:lab04\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\Lab04\\Food.cs",
+              "RelativeDocumentMoniker": "Lab04\\Food.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\Lab04\\Food.cs",
+              "RelativeToolTip": "Lab04\\Food.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:55:57.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\Lab04\\Role.cs",
+              "RelativeDocumentMoniker": "Lab04\\Role.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\Lab04\\Role.cs",
+              "RelativeToolTip": "Lab04\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:36:23.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.Designer.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\Lab04\\Account.Designer.cs",
+              "RelativeDocumentMoniker": "Lab04\\Account.Designer.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\Lab04\\Account.Designer.cs",
+              "RelativeToolTip": "Lab04\\Account.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:34:36.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\Lab04\\Account.cs",
+              "RelativeDocumentMoniker": "Lab04\\Account.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab04\\Lab04\\Account.cs",
+              "RelativeToolTip": "Lab04\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:33:46.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

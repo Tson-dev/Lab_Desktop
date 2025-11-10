@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6D7AC7-63CF-417D-893E-4495AA6A62C4}|DataAccess\\DataAccess.csproj|e:\\save projects\\visual\\c#\\new folder (2)\\lab06\\dataaccess\\ultilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6D7AC7-63CF-417D-893E-4495AA6A62C4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\ultilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B42BAB5-1EAD-4D85-B761-2A7113F18BA8}|BusinessLogic\\BusinessLogic.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\businesslogic\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B42BAB5-1EAD-4D85-B761-2A7113F18BA8}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF8887-C5EA-490B-98C8-13C979928C3C}|RestaurantManagement\\RestaurantManagement.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\restaurantmanagement\\frmfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF8887-C5EA-490B-98C8-13C979928C3C}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\frmfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF8887-C5EA-490B-98C8-13C979928C3C}|RestaurantManagement\\RestaurantManagement.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\restaurantmanagement\\frmfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BADF8887-C5EA-490B-98C8-13C979928C3C}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\frmfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF8887-C5EA-490B-98C8-13C979928C3C}|RestaurantManagement\\RestaurantManagement.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\restaurantmanagement\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF8887-C5EA-490B-98C8-13C979928C3C}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF8887-C5EA-490B-98C8-13C979928C3C}|RestaurantManagement\\RestaurantManagement.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\restaurantmanagement\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BADF8887-C5EA-490B-98C8-13C979928C3C}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmFood.cs [Design]",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\RestaurantManagement\\frmFood.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\frmFood.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\RestaurantManagement\\frmFood.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement\\frmFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:57:22.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\BusinessLogic\\Food.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Food.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\BusinessLogic\\Food.cs",
+              "RelativeToolTip": "BusinessLogic\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:53:55.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmFood.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\RestaurantManagement\\frmFood.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\frmFood.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\RestaurantManagement\\frmFood.cs",
+              "RelativeToolTip": "RestaurantManagement\\frmFood.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAWwDwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:53:20.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ultilities.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\DataAccess\\Ultilities.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Ultilities.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\DataAccess\\Ultilities.cs",
+              "RelativeToolTip": "DataAccess\\Ultilities.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:47:17.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAccount.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\RestaurantManagement\\frmAccount.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\frmAccount.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\RestaurantManagement\\frmAccount.cs",
+              "RelativeToolTip": "RestaurantManagement\\frmAccount.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwG8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:29:31.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAccount.cs [Design]",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\RestaurantManagement\\frmAccount.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\frmAccount.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab06\\RestaurantManagement\\frmAccount.cs [Design]",
+              "RelativeToolTip": "RestaurantManagement\\frmAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:39:56.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

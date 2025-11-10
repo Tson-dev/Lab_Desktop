@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|e:\\save projects\\visual\\c#\\new folder (2)\\lab05\\lab05\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|solutionrelative:lab05\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\lab05\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|solutionrelative:lab05\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\lab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|solutionrelative:lab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\lab05\\role.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|solutionrelative:lab05\\role.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\lab05\\selectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|solutionrelative:lab05\\selectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\lab05\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|solutionrelative:lab05\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\lab05\\selectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|solutionrelative:lab05\\selectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\lab05\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|solutionrelative:lab05\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\lab05\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39246DC1-65A1-485C-BA37-ACA7C61A2E44}|Lab05\\Lab05.csproj|solutionrelative:lab05\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectForm.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\SelectForm.cs",
+              "RelativeDocumentMoniker": "Lab05\\SelectForm.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\SelectForm.cs",
+              "RelativeToolTip": "Lab05\\SelectForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:14:05.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountForm.cs [Design]",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\AccountForm.cs",
+              "RelativeDocumentMoniker": "Lab05\\AccountForm.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\AccountForm.cs [Design]",
+              "RelativeToolTip": "Lab05\\AccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:43:16.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectForm.cs [Design]",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\SelectForm.cs",
+              "RelativeDocumentMoniker": "Lab05\\SelectForm.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\SelectForm.cs [Design]",
+              "RelativeToolTip": "Lab05\\SelectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:49:26.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodForm.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\FoodForm.cs",
+              "RelativeDocumentMoniker": "Lab05\\FoodForm.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\FoodForm.cs",
+              "RelativeToolTip": "Lab05\\FoodForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAewC8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:48:42.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\Program.cs",
+              "RelativeDocumentMoniker": "Lab05\\Program.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\Program.cs",
+              "RelativeToolTip": "Lab05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:47:50.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.Designer.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\Role.Designer.cs",
+              "RelativeDocumentMoniker": "Lab05\\Role.Designer.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\Role.Designer.cs",
+              "RelativeToolTip": "Lab05\\Role.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAowLkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:36:46.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\Role.cs",
+              "RelativeDocumentMoniker": "Lab05\\Role.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\Role.cs",
+              "RelativeToolTip": "Lab05\\Role.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAApwFMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:36:31.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Role.cs [Design]",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\Role.cs",
+              "RelativeDocumentMoniker": "Lab05\\Role.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\Role.cs [Design]",
+              "RelativeToolTip": "Lab05\\Role.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:36:00.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountForm.cs",
+              "DocumentMoniker": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\AccountForm.cs",
+              "RelativeDocumentMoniker": "Lab05\\AccountForm.cs",
+              "ToolTip": "E:\\Save Projects\\Visual\\C#\\New folder (2)\\Lab05\\Lab05\\AccountForm.cs",
+              "RelativeToolTip": "Lab05\\AccountForm.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAIAwwGwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:35:37.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
